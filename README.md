@@ -17,6 +17,8 @@ Techniques Used:
 
 - Data Preprocessing and Cleaning
 
+- Data Analysis 
+
 - Data Visualization (with bar charts and pie charts)
 
 - NLP Sentiment Analysis on the Movie Overviews
