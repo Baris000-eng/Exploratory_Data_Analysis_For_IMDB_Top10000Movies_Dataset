@@ -15,8 +15,10 @@ Libraries Used:
 
 Techniques Used:
 
-1-) Data Preprocessing and Cleaning
-2-) Data Visualization (with bar charts and pie charts)
-3-) NLP Sentiment Analysis on the Movie Overviews
+- Data Preprocessing and Cleaning
+
+- Data Visualization (with bar charts and pie charts)
+
+- NLP Sentiment Analysis on the Movie Overviews
 
 
